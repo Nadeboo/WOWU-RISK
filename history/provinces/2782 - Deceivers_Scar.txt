@@ -1,16 +1,7 @@
 is_city = yes
-owner = ARL
-controller = ARL
-add_core = ARL
-
 base_tax = 1
 base_production = 1
 base_manpower = 3
-
 culture = culture_eredar
 religion = fel
-
-hre = no
 trade_goods = unknown
-
-

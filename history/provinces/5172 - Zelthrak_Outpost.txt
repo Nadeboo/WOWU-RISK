@@ -1,16 +1,7 @@
 is_city = yes
-
-owner = KAU
-controller = KAU
-add_core = KAU
-
 base_tax = 2
 base_production = 3
 base_manpower = 2
-
 culture = culture_tuskarr
 religion = tuskarr_idolatry
-
-hre = no
 trade_goods = unknown
-

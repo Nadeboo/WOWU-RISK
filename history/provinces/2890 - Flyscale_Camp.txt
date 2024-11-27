@@ -1,16 +1,7 @@
 is_city = yes
-
-owner = QLH
-controller = QLH
-add_core = QLH
-
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 culture = culture_djaradin
 religion = flame
-
-hre = no
 trade_goods = unknown
-

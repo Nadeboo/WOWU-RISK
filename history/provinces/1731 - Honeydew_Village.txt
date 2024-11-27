@@ -1,25 +1,12 @@
-
 is_city = yes
-
-owner = HOY
-controller = HOY
-add_core = HOY
-
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 culture = culture_pandaren
 religion = celestials
-
-hre = no # hre = yes
 trade_goods = resource_alcohol
-
 center_of_trade = 1
-
-632.1.1 = {
-    owner = P35
-    controller = P35
-    add_core = P35
+632.1.1 = { 
+	controller = P35
+	add_core = P35
 }
-

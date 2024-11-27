@@ -1,54 +1,30 @@
 is_city = yes
-owner = GHR
-controller = GHR
-add_core = GHR
-
 base_tax = 1
 base_production = 1
 base_manpower = 1
-
 culture = culture_gnoll
 religion = earth
-hre = no
 trade_goods = resource_common_wood
-
-
-548.1.1 = {
-    owner = B15
-    controller = B15
-    add_core = B15
-	add_core = STW
-
-    culture = culture_gnoll
-    religion = earth
-}
-
-# Second War
-598.1.1 = {
-    owner = U03
-    controller = U03
-    add_core = U03
-    
-    culture = culture_fel_orc
-    religion = fel
-}
-
-# Beyond the Dark Portal
-600.1.1 = { 
-	owner = B15
+548.1.1 = { 
 	controller = B15
 	add_core = B15
-	remove_core = U03
-    
-	religion = earth	
-    culture = culture_gnoll 
+	add_core = STW
+	culture = culture_gnoll
+	religion = earth
 }
-
-# Rise of the Qiraji
+598.1.1 = { 
+	controller = U03
+	add_core = U03
+	culture = culture_fel_orc
+	religion = fel
+}
+600.1.1 = { 
+	controller = B15
+	religion = earth
+	culture = culture_gnoll
+}
 622.1.1 = { 
-    owner = A07
-    controller = A07 
-    add_core = A07 
-    
-    religion = shadow
+	controller = A07
+	add_core = A07
+	religion = shadow
 }

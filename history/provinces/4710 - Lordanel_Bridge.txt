@@ -1,23 +1,11 @@
-
 is_city = yes
-
-owner = B30
-controller = B30
-add_core = B30
-
 base_tax = 1
 base_production = 1
 base_manpower = 1
-
 culture = culture_murloc
 religion = deep_mother
-
-hre = no
 trade_goods = resource_common_fish
-
-
-618.1.1 = {
-	owner = B39
+618.1.1 = { 
 	controller = B39
 	add_core = B39
 	base_tax = 2
@@ -25,25 +13,17 @@ trade_goods = resource_common_fish
 	base_production = 2
 	culture = culture_furbolg
 	religion = shamanism
-	is_city = yes
-	remove_core = B30
+	city = yes
 }
-
-622.1.1 = {
-	owner = B30
+622.1.1 = { 
 	controller = B30
-	add_core = B30
-	remove_core = B39
-
 	culture = culture_murloc
 	religion = deep_mother
 }
-
-631.1.1 = {
-	owner = A94
+631.1.1 = { 
 	controller = A94
 	add_core = A94
 	religion = elune
-    culture = culture_night_elf
-    trade_goods = resource_moonwell
+	culture = culture_night_elf
+	trade_goods = resource_moonwell
 }

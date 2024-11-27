@@ -1,14 +1,7 @@
 is_city = yes
-owner = STE
-controller = STE
-add_core = STE
-
 base_tax = 2
 base_production = 2
 base_manpower = 4
-
 culture = culture_murloc
 religion = deep_mother
-
-hre = no
 trade_goods = unknown

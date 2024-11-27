@@ -1,48 +1,20 @@
-
 is_city = yes
-
-owner = A12
-controller = A12
-add_core = A12
-
 base_tax = 1
-base_production = 1
-base_manpower = 2
-
-culture = culture_gilnean
-religion = holy_light
-
-hre = no
-trade_goods = resource_common_skins
-
-
-618.1.1 = {
-	revolt = {
-		type = pretender_rebels
-		size = 2
-		name = "Northgate Rebellion"
-		leader = "Darius Crowley"
-	}
-	unrest = 5
-	controller = REB 
+base_production = 2
+base_manpower = 1
+culture = country
+618.1.1 = { 
+	controller = REB
+	revolt = { type = pretender_rebels name = "Northgate Rebellion" size = 2 leader = "Darius Crowley" }
 }
-
-# Rise of the Qiraji
-622.1.1 = {
-	revolt = {
-	}
+622.1.1 = { 
 	controller = A12
-	unrest = 0
+	revolt = { size = 1 }
 }
-
-# Cataclysm
 631.1.1 = { 
 	culture = culture_gilnean_worgen
 	controller = P14
 }
-
-# Mists of Pandaria
 632.1.1 = { 
 	controller = A12
 }
-

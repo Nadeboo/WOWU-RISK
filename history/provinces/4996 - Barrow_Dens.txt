@@ -1,17 +1,7 @@
-
 is_city = yes
-
-owner = DPW
-controller = DPW
-add_core = DPW
-
 base_tax = 2
 base_production = 2
 base_manpower = 4
-
 culture = culture_kobold
 religion = candle
-
-hre = no
 trade_goods = unknown
-

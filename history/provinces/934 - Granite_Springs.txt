@@ -1,56 +1,29 @@
-
 is_city = yes
-
-owner = A77
-controller = A77
-add_core = A77
-
-base_tax = 2
+base_tax = 1
 base_production = 2
-base_manpower = 2
-
-culture = culture_frost_troll
-religion = voodoo
-
-hre = no
-trade_goods = unknown
-
+base_manpower = 1
+culture = country
 center_of_trade = 1
-
 622.1.1 = { 
-    is_city = yes
-    owner = P30
-    controller = P30
-    add_core = P30
-    
-    culture = culture_lordaeron
-    religion = holy_light 
-
-    trade_goods = resource_rare_skins
+	controller = P30
+	add_core = P30
+	culture = culture_lordaeron
+	religion = holy_light
+	trade_goods = resource_rare_skins
 }
-
-# The Burning Crusade
 625.1.1 = { 
-    culture = culture_lordaeron_worgen
-    religion = shadow
+	culture = culture_lordaeron_worgen
+	religion = shadow
 }
-
-626.1.1 = {
-    owner = F39
-    controller = F39
-    add_core = F39
-    
-    culture = culture_lordaeron
-    religion = holy_light
+626.1.1 = { 
+	controller = F39
+	add_core = F39
+	culture = culture_lordaeron
+	religion = holy_light
 }
-
-631.1.1 = {
-    owner = B86
-    controller = B86
-    add_core = B86
-    remove_core = F39
-    
-    culture = culture_ooze
-    religion = yogg_saron
+631.1.1 = { 
+	controller = B86
+	add_core = B86
+	culture = culture_ooze
+	religion = yogg_saron
 }
-

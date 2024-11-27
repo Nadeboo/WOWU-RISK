@@ -1,19 +1,8 @@
-
 is_city = yes
-
-owner = G09
-controller = G09
-add_core = G09
-
 base_tax = 3
 base_production = 1
 base_manpower = 3
-
 culture = culture_tolvir
 religion = cult_of_the_sun
-
-hre = no
 trade_goods = resource_artifacts
-
 center_of_trade = 1
-

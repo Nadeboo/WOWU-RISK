@@ -1,25 +1,15 @@
 is_city = yes
-owner = BLW
-controller = BLW
-add_core = BLW
-
 base_tax = 2
 base_production = 2
 base_manpower = 2
-
 culture = culture_vrykul
 religion = corrupt_titan_worship
-
-hre = no
 trade_goods = resource_common_fish
-
-latent_trade_goods = {
-	resource_azerite
+latent_trade_goods = { 
+	resource_azerite 
 }
-
 center_of_trade = 1
-
-add_permanent_province_modifier = {
-    name = map_treasure_hoard
-    duration = -1
+add_permanent_province_modifier = { 
+	name = map_treasure_hoard
+	duration = -1
 }

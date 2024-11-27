@@ -1,24 +1,13 @@
-
 is_city = yes
-
-owner = P84
-controller = P84
-add_core = P84
-
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 culture = culture_pandaren
 religion = celestials
-
-hre = no # hre = yes
 trade_goods = resource_food
-
-632.1.1 = {
-    owner = P75
-    controller = P75
-    add_core = P75
-    culture = culture_virmen
-    religion = earth}
-
+632.1.1 = { 
+	controller = P75
+	add_core = P75
+	culture = culture_virmen
+	religion = earth
+}

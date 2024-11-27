@@ -1,33 +1,17 @@
-
 is_city = yes
-
-owner = SET
-controller = SET
-add_core = SET
-
 base_tax = 3
 base_production = 3
 base_manpower = 4
-
 culture = culture_centaur
 religion = shamanism
-
-hre = no
 trade_goods = resource_rare_cloth
-
-
-619.1.1 = {
-    
-    owner = ---
-    controller = ---
-    remove_core = SET
+619.1.1 = { 
+	owner = ---
+	controller = ---
 }
-
-630.1.1 = {
-    owner = G06
-    controller = G06
-    add_core = G06
-
-    culture = culture_lordaeron
-    religion = holy_light
+630.1.1 = { 
+	controller = G06
+	add_core = G06
+	culture = culture_lordaeron
+	religion = holy_light
 }

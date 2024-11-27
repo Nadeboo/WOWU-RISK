@@ -1,68 +1,41 @@
 is_city = yes
-owner = CRC
-controller = CRC
-add_core = CRC
-
 base_tax = 2
 base_production = 2
 base_manpower = 2
-
 culture = culture_lordaeron
-religion = holy_light 
-
-hre = no
+religion = holy_light
 trade_goods = unknown
-
 # First War
-592.1.1 = {
-    owner = A08
-    controller = A08
-    add_core = A08
-    
-    culture = culture_lordaeron
-    religion = holy_light
+592.1.1 = { 
+	controller = A08
+	add_core = A08
+	culture = culture_lordaeron
+	religion = holy_light
 }
-
-# Rise of the Lich King
 605.1.1 = { 
 	add_core = P62
-	owner = P62
 	controller = P62
 	culture = culture_lordaeron
-    religion = holy_light
+	religion = holy_light
 }
-
 617.1.1 = { 
 	add_claim = P52
 }
-
-# Rise of the Qiraji
 623.1.1 = { 
 	add_core = SCE
 	add_core = A22
-	remove_core = P62
-	owner = SCE
 	controller = SCE
-	religion = scarlet_light 
+	religion = scarlet_light
 }
-
-# Cataclysm
 631.1.1 = { 
-	owner = X01
 	controller = X01
 	add_core = X01
-	remove_core = A08
-	remove_core = P62
 	religion = fel
 	culture = culture_forsaken
 }
-
-# Mists of Pandaria
 632.1.1 = { 
-	owner = AGC
 	controller = AGC
 	add_core = AGC
 	religion = argent_light
 	culture = culture_lordaeron
 }
-

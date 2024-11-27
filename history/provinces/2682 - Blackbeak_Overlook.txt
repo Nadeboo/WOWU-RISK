@@ -1,16 +1,7 @@
-
-owner = DRJ
-controller = DRJ
-add_core = DRJ
-
 base_tax = 1
 base_production = 1
 base_manpower = 1
-
 culture = culture_vrykul
 religion = titan_worship
-
-hre = no
 trade_goods = resource_flying_mounts
- 
-
+is_city = no

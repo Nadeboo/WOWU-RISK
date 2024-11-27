@@ -1,19 +1,8 @@
-
 is_city = yes
-
-owner = RGH
-controller = RGH
-add_core = RGH
-
 base_tax = 4
 base_production = 4
 base_manpower = 6
-
 culture = culture_silithid
 religion = cthun
-
-hre = no
 trade_goods = resource_food
-
-
 add_building = wow_fort_1

@@ -1,23 +1,11 @@
 is_city = yes
-owner = VLR
-controller = VLR
-add_core = VLR
-
-base_tax = 3
-base_production = 3
-base_manpower = 3
-
-culture = culture_frost_vrykul
-religion = titan_worship
-
-hre = no
-trade_goods = unknown
-
+base_tax = 1
+base_production = 2
+base_manpower = 1
+culture = country
 center_of_trade = 1
-
 626.1.1 = { 
-    add_core = P11
-    controller = P11
-    owner = P11
-    religion = cult_of_the_damned 
+	add_core = P11
+	controller = P11
+	religion = cult_of_the_damned
 }

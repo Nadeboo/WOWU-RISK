@@ -2,36 +2,20 @@
 native_size = 10
 native_ferocity = 10
 native_hostileness = 10
-
 base_tax = 1
-base_production = 1
+base_production = 2
 base_manpower = 1
-
-culture = culture_jungle_troll
-religion = voodoo
-
-hre = no
-trade_goods = resource_arcane
-
-# First War
-592.1.1 = {
-    is_city = yes
-    
-    owner = U03
-    controller = U03
-    add_core = U03
-    
-    culture = culture_fel_orc
-    religion = fel
+culture = country
+592.1.1 = { 
+	controller = U03
+	add_core = U03
+	culture = culture_fel_orc
+	religion = fel
 }
-
-# Rise of the Lich Kng
-605.1.1 = {
-    owner = A18
-    controller = A18
+605.1.1 = { 
+	controller = A18
 	add_core = A18
-    
-    culture = culture_dalaran
-    religion = arcane
+	culture = culture_dalaran
+	religion = arcane
 }
-
+is_city = no

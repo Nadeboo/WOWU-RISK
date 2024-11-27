@@ -1,30 +1,17 @@
 is_city = yes
-owner = A37
-controller = A37
-add_core = A37
 add_core = F77
-
 base_tax = 2
 base_production = 2
 base_manpower = 1
-
 culture = culture_gronn
 religion = earth
-
-hre = no
 trade_goods = resource_gems
-
 # Fel Conversion
-560.1.1 = {
-    religion = fel
-    culture = culture_orc
+560.1.1 = { 
+	religion = fel
+	culture = culture_orc
 }
-
-# Outlandification
-600.1.1 = {
-    
-    owner = ---
-    controller = ---
-    remove_core = A37
-} 
-
+600.1.1 = { 
+	owner = ---
+	controller = ---
+}

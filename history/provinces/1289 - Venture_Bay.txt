@@ -1,27 +1,12 @@
 is_city = yes
-owner = B34
-controller = B34
-add_core = B34
-
-base_tax = 2
-base_production = 3
-base_manpower = 2
-
-culture = culture_murloc
-religion = deep_mother
-
-hre = no
-trade_goods = unknown
-
+base_tax = 1
+base_production = 2
+base_manpower = 1
+culture = country
 center_of_trade = 2
-
 626.1.1 = { 
-    owner = A81
-    controller = A81
-    add_core = A81
-    remove_core = B47 
-
-    culture = culture_goblin
-    religion = avarice
+	controller = A81
+	add_core = A81
+	culture = culture_goblin
+	religion = avarice
 }
-

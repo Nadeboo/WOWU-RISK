@@ -1,46 +1,23 @@
-
 is_city = yes
-owner = A76
-controller = A76
-add_core = A76
-
 base_tax = 1
 base_production = 2
 base_manpower = 1
-
-culture = culture_frost_troll
-religion = voodoo
-
-hre = no
-trade_goods = resource_fossils
-
-# Second War
-598.1.1 = {
-    owner = U03
-    controller = U03
-    add_core = U03
-    
-    culture = culture_fel_orc
-    religion = fel
+culture = country
+598.1.1 = { 
+	controller = U03
+	add_core = U03
+	culture = culture_fel_orc
+	religion = fel
 }
-
-# Rise of the Lich Kng
-605.1.1 = {
-	owner = F56
+605.1.1 = { 
 	controller = F56
 	add_core = F56
-    
-	culture = culture_high_elf 
+	culture = culture_high_elf
 	religion = holy_light
 }
-
-# Rise of the Qiraji
-622.1.1 = {
-    owner = P54
-    controller = P54
-    add_core = P54
-    
-    culture = culture_trogg 
-    religion = earth
+622.1.1 = { 
+	controller = P54
+	add_core = P54
+	culture = culture_trogg
+	religion = earth
 }
-

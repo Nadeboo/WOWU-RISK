@@ -1,49 +1,26 @@
-
 is_city = yes
-
-owner = B29
-controller = B29
-add_core = B29
-
 base_tax = 1
 base_production = 1
 base_manpower = 1
-
 culture = culture_murloc
 religion = deep_mother
-
-hre = no
 trade_goods = resource_common_fish
-
 # First War
-592.1.1 = {
-    owner = U03
-    controller = U03
-    add_core = U03
-    
-    culture = culture_fel_orc
-    religion = fel
+592.1.1 = { 
+	controller = U03
+	add_core = U03
+	culture = culture_fel_orc
+	religion = fel
 }
-
-# Beyond the Dark Portal
 600.1.1 = { 
-	owner = F34
 	controller = F34
 	add_core = F34
-    remove_core = U03
-    
 	culture = culture_broken
 	religion = light_of_the_naaru
 }
-
-# The Third War
 617.1.1 = { 
-	owner = F35
 	controller = F35
 	add_core = F35
-	remove_core = F34
-    
 	culture = culture_lost_one
 	religion = shamanism
 }
-

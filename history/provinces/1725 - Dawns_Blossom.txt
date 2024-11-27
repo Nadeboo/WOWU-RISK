@@ -1,19 +1,7 @@
-
 is_city = yes
-
-owner = DWB
-controller = DWB
-add_core = DWB
-
 base_tax = 3
 base_production = 3
 base_manpower = 4
-
 culture = culture_pandaren
 religion = celestials
-
-hre = no # hre = yes
 trade_goods = resource_alcohol
-
-
-

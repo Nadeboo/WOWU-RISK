@@ -1,24 +1,12 @@
 is_city = yes
-
-owner = PLE
-controller = PLE
-add_core = PLE
-
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 culture = culture_tuskarr
 religion = tuskarr_idolatry
-
-hre = no
 trade_goods = unknown
-
 center_of_trade = 1
-
-616.1.1 = {
-    
-    owner = ---
-    controller = ---
-    remove_core = PLE
+616.1.1 = { 
+	owner = ---
+	controller = ---
 }

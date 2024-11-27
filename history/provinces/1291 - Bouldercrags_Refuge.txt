@@ -1,15 +1,5 @@
 is_city = yes
-owner = DOL
-controller = DOL
-add_core = DOL
-
-base_tax = 3
-base_production = 3
-base_manpower = 3
-
-culture = culture_mountain_giant
-religion = earth
-
-hre = no
-trade_goods = unknown
-
+base_tax = 1
+base_production = 2
+base_manpower = 1
+culture = country

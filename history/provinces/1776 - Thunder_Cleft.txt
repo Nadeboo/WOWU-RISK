@@ -1,28 +1,13 @@
-
 is_city = yes
-
-owner = P81
-controller = P81
-add_core = P81
-
 base_tax = 2
 base_production = 3
 base_manpower = 4
-
 culture = culture_mogu
 religion = anima
-
-hre = no
 trade_goods = resource_melee_weaponry
-
 632.1.1 = { 
-    owner = DST
-    controller = DST
-    add_core = DST
-    culture = culture_tauren
-    religion = shamanism
+	controller = DST
+	add_core = DST
+	culture = culture_tauren
+	religion = shamanism
 }
-
-
-
-

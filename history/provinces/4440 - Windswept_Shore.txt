@@ -1,27 +1,13 @@
-
 is_city = yes
-
-owner = SLR
-controller = SLR
-add_core = SLR
-
 base_tax = 2
 base_production = 2
 base_manpower = 2
-
 culture = culture_pandaren
 religion = celestials
-
-hre = no
 trade_goods = resource_common_fish
-
-
-632.1.1 = {
-    owner = P91
-    controller = P91
-    add_core = P91
-    culture = culture_pandaren
-    religion = celestials
+632.1.1 = { 
+	controller = P91
+	add_core = P91
+	culture = culture_pandaren
+	religion = celestials
 }
-
-

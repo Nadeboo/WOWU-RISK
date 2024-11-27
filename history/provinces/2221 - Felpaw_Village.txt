@@ -1,26 +1,14 @@
-
 is_city = yes
-owner = B42
-controller = B42
-add_core = B42
-
 base_tax = 3
 base_production = 2
 base_manpower = 3
-
 culture = culture_furbolg
 religion = shamanism
-
-hre = no
 trade_goods = resource_food
-
 center_of_trade = 1
-
-617.1.1 = {
-    owner = FEP
-    controller = FEP
-    add_core = FEP
-
-    religion = fel
-    culture = culture_corrupted_furbolg
+617.1.1 = { 
+	controller = FEP
+	add_core = FEP
+	religion = fel
+	culture = culture_corrupted_furbolg
 }

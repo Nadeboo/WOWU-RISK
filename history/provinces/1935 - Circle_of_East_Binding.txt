@@ -1,28 +1,14 @@
-
 is_city = yes
-
-owner = A16
-controller = A16
-add_core = A16
-
 base_tax = 1
 base_production = 1
 base_manpower = 1
-
 culture = culture_arathi
-religion = holy_light 
-
-hre = no
+religion = holy_light
 trade_goods = resource_artifacts
-
 # Rise of the Qiraji
 622.1.1 = { 
-	owner = LGA
 	controller = LGA
 	add_core = LGA
-    
-    culture = culture_water
-    religion = water
+	culture = culture_water
+	religion = water
 }
-
-

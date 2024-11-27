@@ -1,27 +1,14 @@
-
 is_city = yes
-
-owner = B57
-controller = B57
-add_core = B57
-
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 culture = culture_kobold
 religion = candle
-hre = no
 trade_goods = resource_treasure
-
-
-
-
-
-631.1.1 = { owner = A19
-controller = A19
-add_core = A19
-religion = holy_light
-culture = culture_kul_tiran
-capital = "The Admiral's Den"
+631.1.1 = { 
+	controller = A19
+	add_core = A19
+	religion = holy_light
+	culture = culture_kul_tiran
+	capital = "The Admiral's Den"
 }

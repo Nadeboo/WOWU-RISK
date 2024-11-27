@@ -1,28 +1,16 @@
-
 is_city = yes
-owner = SES
-controller = SES
-add_core = SES
-
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 culture = culture_tauren
 religion = tauren_shamanism
-
-hre = no
 trade_goods = resource_rare_skins
-
-latent_trade_goods = {
-	resource_azerite
+latent_trade_goods = { 
+	resource_azerite 
 }
-
 center_of_trade = 1
-
 622.1.1 = { 
 	controller = F59
-	owner = F59
 	add_core = F59
 	culture = culture_ironforge
 	religion = holy_light
@@ -30,12 +18,9 @@ center_of_trade = 1
 	base_tax = 5
 	base_manpower = 5
 	base_production = 5
-
-    trade_goods = resource_artifacts
+	trade_goods = resource_artifacts
 }
-
-# Damaged after being partly blown up
-632.1.1 = {
+632.1.1 = { 
 	base_tax = 3
 	base_manpower = 3
 	base_production = 4

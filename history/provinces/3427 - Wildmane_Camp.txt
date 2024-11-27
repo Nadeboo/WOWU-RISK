@@ -1,26 +1,15 @@
 is_city = yes
-owner = WIM
-controller = WIM
-add_core = WIM
-
 base_tax = 1
 base_production = 2
 base_manpower = 2
-
 culture = culture_tauren
 religion = tauren_shamanism
-
-hre = no
 trade_goods = unknown
-
-
 # Rise of the Qiraji
-622.1.1 = {
-	owner = G05
+622.1.1 = { 
 	controller = G05
 	add_core = G05
 	add_core = THB
-    
 	culture = culture_harpy
-    religion = wind
+	religion = wind
 }

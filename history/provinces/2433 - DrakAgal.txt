@@ -1,27 +1,14 @@
-
 is_city = yes
-
-owner = A74
-controller = A74
-add_core = A74
-
 base_tax = 1
 base_production = 1
 base_manpower = 1
-
 culture = culture_frost_troll
 religion = voodoo
-
-hre = no
 trade_goods = resource_food
-
 center_of_trade = 1
-
-626.1.1 = {
-    add_core = AGC
-    controller = AGC
-    owner = AGC
-    culture = culture_lordaeron
-    religion = argent_light
+626.1.1 = { 
+	add_core = AGC
+	controller = AGC
+	culture = culture_lordaeron
+	religion = argent_light
 }
-

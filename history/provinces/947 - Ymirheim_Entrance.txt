@@ -1,21 +1,9 @@
-
 is_city = yes
-
-owner = P15
-controller = P15
-add_core = P15
-
-base_tax = 2
+base_tax = 1
 base_production = 2
-base_manpower = 2
-
-culture = culture_vrykul
-religion = corrupt_titan_worship
-
-hre = no
-trade_goods = resource_rare_ores
-
+base_manpower = 1
+culture = country
 615.1.1 = { 
-    religion = cult_of_the_damned 
-    culture = culture_vargul
+	religion = cult_of_the_damned
+	culture = culture_vargul
 }

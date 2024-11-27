@@ -1,17 +1,7 @@
 is_city = yes
-
-owner = AZV
-controller = AZV
-add_core = AZV
-
 base_tax = 4
 base_production = 4
 base_manpower = 4
-
 culture = culture_drakonid
 religion = dragon_aspects
-
-hre = no
 trade_goods = unknown
-
-

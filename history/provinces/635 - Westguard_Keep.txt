@@ -1,54 +1,27 @@
 is_city = yes
-owner = B08
-controller = B08
-add_core = B08
-
-base_tax = 3
-base_production = 3
-base_manpower = 3
-
-culture = culture_vrykul
-religion = corrupt_titan_worship
-
-hre = no
-trade_goods = unknown
-
+base_tax = 1
+base_production = 2
+base_manpower = 1
+culture = country
 center_of_trade = 1
-
-610.1.1 = {
-    owner = P11
-    controller = P11
-    add_core = P11
-    remove_core = B08
-
-    culture = culture_scourge
-    religion = cult_of_the_damned
-
-    trade_goods = resource_common_skins
+610.1.1 = { 
+	controller = P11
+	add_core = P11
+	culture = culture_scourge
+	religion = cult_of_the_damned
+	trade_goods = resource_common_skins
 }
-
-# The Third War
 616.1.1 = { 
-    owner = H15
-    controller = H15
-    add_core = H15
-    
-    culture = culture_ironforge
-    religion = holy_light
-    
-    base_tax = 4
-    base_manpower = 4
-    base_production = 4
-    
-    trade_goods = resource_scrolls
+	controller = H15
+	add_core = H15
+	culture = culture_ironforge
+	religion = holy_light
+	base_tax = 4
+	base_manpower = 4
+	base_production = 4
+	trade_goods = resource_scrolls
 }
-
-619.1.1 = {
-	owner = F38
-    controller = F38
-    add_core = F38
-    
-    remove_core = P11
-	remove_core = H15
+619.1.1 = { 
+	controller = F38
+	add_core = F38
 }
-

@@ -1,65 +1,35 @@
 is_city = yes
-
-owner = H04
-controller = H04
-add_core = H04
-
 base_tax = 3
 base_production = 2
 base_manpower = 3
-
 culture = culture_centaur
 religion = earth
-
-hre = no
 trade_goods = resource_ranged_weaponry
-
-latent_trade_goods = {
-	resource_azerite
+latent_trade_goods = { 
+	resource_azerite 
 }
-
 center_of_trade = 1
-
-617.1.1 = {
-    owner = A46
+617.1.1 = { 
 	controller = A46
-    add_core = A46
-    
+	add_core = A46
 	culture = culture_orc
-	religion = shamanism   
-    
+	religion = shamanism
 	capital = "Horde Landing Site"
 }
-
-618.1.1 = {
-    owner = A48
+618.1.1 = { 
 	controller = A48
-    add_core = A48   
+	add_core = A48
 }
-
-622.1.1 = {
-    is_city = yes
-    owner = RTC
-    controller = RTC
+622.1.1 = { 
+	city = yes
+	controller = RTC
 	add_core = RTC
-	remove_core = A48
-    
-    
-    culture = culture_goblin
-    religion = technomancy
-    
-    base_tax = 4
-    base_manpower = 4
-    base_production = 4
-    
-    capital = "Ratchet"
-    
-    trade_goods = resource_common_wood
-	
+	culture = culture_goblin
+	religion = technomancy
+	base_tax = 4
+	base_manpower = 4
+	base_production = 4
+	capital = "Ratchet"
+	trade_goods = resource_common_wood
 	center_of_trade = 2
 }
-
-
-
-
-

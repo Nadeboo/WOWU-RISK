@@ -1,56 +1,29 @@
 is_city = yes
-owner = GHR
-controller = GHR
-add_core = GHR
-
 base_tax = 1
 base_production = 2
-base_manpower = 2
-
-culture = culture_gnoll
-religion = earth
-
-hre = no
-trade_goods = resource_rare_ores
-
-
-548.1.1 = {
-    owner = B17
-    controller = B17
-    add_core = B17
+base_manpower = 1
+culture = country
+548.1.1 = { 
+	controller = B17
+	add_core = B17
 	add_core = RRG
-
-    culture = culture_gnoll
-    religion = earth
-}
-
-# Second War
-598.1.1 = {
-    owner = U03
-    controller = U03
-    add_core = U03
-    
-    culture = culture_fel_orc
-    religion = fel
-}
-
-# Rise of the Lich Kng
-605.1.1 = {
-	owner = B17
-    controller = B17
-    add_core = B17
-    
-    culture = culture_gnoll
-    religion = earth
-}
-
-# Rise of the Qiraji
-622.1.1 = { 
-	owner = B16
-	controller = B16
-	add_core = B16
-    
 	culture = culture_gnoll
 	religion = earth
 }
-
+598.1.1 = { 
+	controller = U03
+	add_core = U03
+	culture = culture_fel_orc
+	religion = fel
+}
+605.1.1 = { 
+	controller = B17
+	culture = culture_gnoll
+	religion = earth
+}
+622.1.1 = { 
+	controller = B16
+	add_core = B16
+	culture = culture_gnoll
+	religion = earth
+}

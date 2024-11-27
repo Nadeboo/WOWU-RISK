@@ -1,56 +1,29 @@
-
 is_city = yes
-
-owner = A16
-controller = A16
-add_core = A16
 add_core = TOB
-
 base_tax = 2
 base_production = 1
 base_manpower = 2
-
 culture = culture_arathi
 religion = holy_light
-
-hre = no
 trade_goods = resource_common_fish
-
 # Beyond the Dark Portal
-600.1.1 = {
-    owner = TOB
-    controller = TOB
-    add_core = TOB
-    remove_core = A16
-    
-    culture = culture_arathi
-    religion = holy_light 
+600.1.1 = { 
+	controller = TOB
+	culture = culture_arathi
+	religion = holy_light
 }
-
-# Stromic population of this village leave to help mainland Stromgarde
-622.1.1 = {
-    # Empty Province
-    owner = B92
-    add_core = B92
-    controller = B92
+622.1.1 = { 
+	add_core = B92
+	controller = B92
 }
-
-630.1.1 = {
-    # Empty Province
-    owner = FRN
-    add_core = FRN
-    controller = FRN 
-	remove_core = B92
-    culture = culture_arathi
-    religion = holy_light
+630.1.1 = { 
+	add_core = FRN
+	controller = FRN
+	culture = culture_arathi
+	religion = holy_light
 }
-
-# Cataclysm
-631.1.1 = {
-    # Empty Province
-    owner = FRN
-    add_core = FRN
-    controller = FRN 
-    culture = culture_arathi
-    religion = chaos
+631.1.1 = { 
+	controller = FRN
+	culture = culture_arathi
+	religion = chaos
 }

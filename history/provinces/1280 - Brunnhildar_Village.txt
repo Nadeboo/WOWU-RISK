@@ -1,20 +1,6 @@
-
 is_city = yes
-
-owner = P16
-controller = P16
-add_core = P16
-
-base_tax = 4
-base_production = 4
-base_manpower = 4
-
-culture = culture_frost_vrykul
-religion = titan_worship
-
-hre = no
-trade_goods = resource_beasts_of_burden
-
+base_tax = 1
+base_production = 2
+base_manpower = 1
+culture = country
 center_of_trade = 1
-
-

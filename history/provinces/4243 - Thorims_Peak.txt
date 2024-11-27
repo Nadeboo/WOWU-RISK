@@ -1,16 +1,7 @@
 is_city = yes
-owner = BTO
-controller = BTO
-add_core = BTO
-
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 culture = culture_storm_dragonflight
 religion = wind
-
-hre = no
 trade_goods = resource_flying_mounts
- 
-

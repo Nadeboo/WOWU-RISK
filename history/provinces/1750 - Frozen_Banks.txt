@@ -1,33 +1,18 @@
-
 is_city = yes
-owner = A29
-controller = A29
-add_core = A29
-
 base_tax = 1
 base_production = 1
 base_manpower = 1
-
 culture = culture_ironforge
 religion = holy_light
-
-hre = no
 trade_goods = resource_devices
-
-622.1.1 = {
-	owner = A33
+622.1.1 = { 
 	controller = A33
 	add_core = A33
 	culture = culture_leper_gnome
 	religion = avarice
 }
-
-# Cataclysm
-631.1.1 = {
-	owner = A32
+631.1.1 = { 
 	controller = A32
 	culture = culture_gnome
 	religion = technomancy
 }
-
-

@@ -1,30 +1,17 @@
-
 is_city = yes
-
-owner = BD1
-controller = BD1
-add_core = BD1
-
 base_tax = 5
 base_production = 3
 base_manpower = 8
-
 culture = culture_black_dragonflight
 religion = corrupt_dragon_aspect
-
-hre = no
 trade_goods = resource_flying_mounts
-
-latent_trade_goods = {
-	resource_azerite
+latent_trade_goods = { 
+	resource_azerite 
 }
-
-623.1.1 = {  
-    owner = ---
-    controller = ---
-    remove_core = BD1
-	
+623.1.1 = { 
+	owner = ---
+	controller = ---
 	base_tax = 1
-    base_production = 1
-    base_manpower = 1
+	base_production = 1
+	base_manpower = 1
 }

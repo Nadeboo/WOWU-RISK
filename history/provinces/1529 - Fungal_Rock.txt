@@ -1,18 +1,7 @@
 is_city = yes
-
-owner = UHK
-controller = UHK
-add_core = UHK
-
 base_tax = 2
 base_production = 3
 base_manpower = 3
-
 culture = culture_gorilla
 religion = banana
-
-hre = no
 trade_goods = unknown
-
-
-

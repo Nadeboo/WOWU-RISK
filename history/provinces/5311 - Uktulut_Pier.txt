@@ -1,16 +1,7 @@
 is_city = yes
-
-owner = UKT
-controller = UKT
-add_core = UKT
-
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 culture = culture_tuskarr
 religion = tuskarr_idolatry
-
-hre = no
 trade_goods = unknown
-

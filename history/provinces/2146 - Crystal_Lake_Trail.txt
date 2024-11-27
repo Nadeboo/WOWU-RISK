@@ -1,49 +1,27 @@
 is_city = yes
-owner = GHR
-controller = GHR
-add_core = GHR
-
 base_tax = 1
 base_production = 1
 base_manpower = 1
-
 culture = culture_gnoll
 religion = earth
-
-hre = no
 trade_goods = resource_common_skins
-
-548.1.1 = {
-    owner = STW
-    controller = STW
-    add_core = STW
-
-    culture = culture_stormwindian
-    religion = holy_light
+548.1.1 = { 
+	controller = STW
+	add_core = STW
+	culture = culture_stormwindian
+	religion = holy_light
 }
-
-# Second War
-598.1.1 = {
-    owner = U03
-    controller = U03
-    add_core = U03
-    
-    culture = culture_fel_orc
-    religion = fel
+598.1.1 = { 
+	controller = U03
+	add_core = U03
+	culture = culture_fel_orc
+	religion = fel
 }
-
-# Beyond the Dark Portal
-600.1.1 = {
-    owner = STW
-    controller = STW
-    remove_core = U03
-    
-    culture = culture_stormwindian
-    religion = holy_light 
+600.1.1 = { 
+	controller = STW
+	culture = culture_stormwindian
+	religion = holy_light
 }
-
-# The Third War
 617.1.1 = { 
-    owner = STW
-    controller = STW
+	controller = STW
 }

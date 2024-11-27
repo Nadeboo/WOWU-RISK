@@ -1,39 +1,15 @@
 is_city = yes
-
-owner = OOM
-controller = OOM
-add_core = OOM
-
-base_tax = 2
-base_production = 3
-base_manpower = 4
-
-culture = culture_island_pygmy
-religion = voodoo
-
-hre = no
-trade_goods = unknown
-
-latent_trade_goods = {
-	resource_azerite
-}
-
-
-631.1.1 = {
-    is_city = yes
-
-    owner = A79
-    controller = A79
-    add_core = A79
-    remove_core = OOM
-
-    base_tax = 1
-    base_production = 3
-    base_manpower = 1
-
-    culture = culture_goblin
-    religion = technomancy
-
-
-    trade_goods = resource_dyes
+base_tax = 1
+base_production = 2
+base_manpower = 1
+culture = country
+631.1.1 = { 
+	controller = A79
+	add_core = A79
+	base_tax = 1
+	base_production = 3
+	base_manpower = 1
+	culture = culture_goblin
+	religion = technomancy
+	trade_goods = resource_dyes
 }

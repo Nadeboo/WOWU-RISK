@@ -1,21 +1,15 @@
 native_size = 3
 native_ferocity = 3
 native_hostileness = 3
-base_tax = 6
-base_production = 3
-base_manpower = 3
-culture = culture_murloc
-religion = deep_mother
-trade_goods = unknown
-
-add_permanent_province_modifier = {
-    name = map_treasure_hoard
-    duration = -1
+base_tax = 1
+base_production = 2
+base_manpower = 1
+culture = country
+add_permanent_province_modifier = { 
+	name = map_treasure_hoard
+	duration = -1
 }
-
-617.1.1 = {
-	is_city = yes
-	owner = PL3
+617.1.1 = { 
 	controller = PL3
 	add_core = PL3
 	culture = culture_kul_tiran

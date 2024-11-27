@@ -1,17 +1,8 @@
 is_city = yes
-
-owner = STF
-controller = STF
-add_core = STF
-
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 culture = culture_gnoll
 religion = decay
-
-hre = no
 trade_goods = resource_rare_ores
-
 center_of_trade = 1

@@ -1,16 +1,7 @@
 is_city = yes
-
-owner = SOU
-controller = SOU
-add_core = SOU
-
 base_tax = 1
 base_production = 1
 base_manpower = 1
-
 culture = culture_bronze_dragonflight
 religion = dragon_aspects
-
-hre = no
 trade_goods = unknown
-

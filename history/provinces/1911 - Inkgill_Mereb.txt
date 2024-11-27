@@ -1,36 +1,17 @@
-
 is_city = yes
-
-owner = P95
-controller = P95
-add_core = P95
-
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 culture = culture_jinyu
 religion = celestials
-
-hre = no
 trade_goods = resource_common_fish
-
-632.1.1 = {
-    owner = B84
-    controller = B84
-    add_core = B84
-    religion = yshaarj
-    culture = culture_sha
+632.1.1 = { 
+	controller = B84
+	add_core = B84
+	religion = yshaarj
+	culture = culture_sha
 }
-
-# Warlords of Draenor
 633.1.1 = { 
-    # Empty Province
-    owner = B92
-    add_core = B92
-    controller = B92
-    remove_core = B84
-    remove_core = P95
+	add_core = B92
+	controller = B92
 }
-
-

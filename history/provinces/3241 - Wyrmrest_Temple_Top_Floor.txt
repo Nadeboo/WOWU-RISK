@@ -1,32 +1,15 @@
 is_city = yes
-
-owner = B03
-controller = B03
-add_core = B03
-
 base_tax = 5
 base_production = 4
 base_manpower = 6
-
 culture = culture_aspects
 religion = dragon_aspects
-
-hre = no
 trade_goods = unknown
-
 center_of_trade = 1
-
-626.1.1 = {
-    owner = WYA
-    controller = WYA
-    add_core = WYA
+626.1.1 = { 
+	controller = WYA
+	add_core = WYA
 }
-
-631.1.1 = {
-    owner = B03
-    controller = B03
-    add_core = B03
+631.1.1 = { 
+	controller = B03
 }
-
-
-

@@ -1,19 +1,8 @@
-
 is_city = yes
-
-owner = TMT
-controller = TMT
-add_core = TMT
-
 base_tax = 3
 base_production = 3
 base_manpower = 4
-
 culture = culture_pandaren
 religion = celestials
-
-hre = no # hre = yes
 trade_goods = resource_potions
 #
-
-

@@ -1,34 +1,19 @@
-
 # Winterfall
 is_city = yes
-owner = B44
-controller = B44
-add_core = B44
-
-base_tax =2
+base_tax = 2
 base_production = 2
 base_manpower = 2
-
 culture = culture_furbolg
 religion = shamanism
-
-hre = no
 trade_goods = resource_rare_ores
-
-
-618.1.1 = {
-    religion = fel
+618.1.1 = { 
+	religion = fel
 	culture = culture_corrupted_furbolg
 }
-
-622.1.1 = {
-    # Everlook
-    owner = EVR
-    controller = EVR
+622.1.1 = { 
+	controller = EVR
 	add_core = EVR
-    add_core = A80
-    
-    culture = culture_goblin
-    religion = technomancy
+	add_core = A80
+	culture = culture_goblin
+	religion = technomancy
 }
-

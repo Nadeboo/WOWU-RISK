@@ -1,19 +1,7 @@
-
 is_city = yes
-
-owner = F46
-controller = F46
-add_core = F46
-
 base_tax = 1
 base_production = 1
 base_manpower = 1
-
 culture = culture_pandaren
 religion = celestials
-
-hre = no # hre = yes
 trade_goods = resource_common_fish
-
-
-

@@ -1,38 +1,17 @@
-
 # Winterfall
 is_city = yes
-owner = G03
-controller = G03
-add_core = G03
-
 base_tax = 1
 base_production = 2
-base_manpower = 2
-
-culture = culture_frost_giant
-religion = titan_worship
-
-
-hre = no
-trade_goods = resource_artifacts
-
-
-616.1.1 = {
-owner = CRA
-controller = CRA
-add_core = CRA
-
-religion = fel
-culture = culture_satyr
+base_manpower = 1
+culture = country
+616.1.1 = { 
+	controller = CRA
+	add_core = CRA
+	religion = fel
+	culture = culture_satyr
 }
-
-618.1.1 = {
-    owner = G03
-    controller = G03
-    add_core = G03
-	remove_core = CRA
-	
+618.1.1 = { 
+	controller = G03
 	culture = culture_frost_giant
 	religion = titan_worship
 }
-

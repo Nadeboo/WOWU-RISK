@@ -1,42 +1,25 @@
 is_city = yes
-
-owner = F90
-controller = F90
-add_core = F90
-
 base_tax = 2
 base_production = 3
 base_manpower = 2
-
 culture = culture_satyr
 religion = fel
-
-hre = no
 trade_goods = unknown
-
-616.1.1 = {
-    owner = DNG
-    controller = DNG
-    add_core = DNG
+616.1.1 = { 
+	controller = DNG
+	add_core = DNG
 }
-
-618.1.1 = {
-    owner = ---
-    controller = ---
-    remove_core = DNG
+618.1.1 = { 
+	owner = ---
+	controller = ---
 }
-
-630.1.1 = {
-    is_city = yes
-    owner = A79
-    controller = A79
-    add_core = A79
-
-    base_tax = 2
-    base_production = 2
-    base_manpower = 2
-
-    culture = culture_goblin
-    religion = avarice
+630.1.1 = { 
+	city = yes
+	controller = A79
+	add_core = A79
+	base_tax = 2
+	base_production = 2
+	base_manpower = 2
+	culture = culture_goblin
+	religion = avarice
 }
-

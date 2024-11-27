@@ -1,40 +1,19 @@
-
 is_city = yes
-owner = A70
-controller = A70
-add_core = A70
-
-base_tax = 2
+base_tax = 1
 base_production = 2
-base_manpower = 2
-
-culture = culture_jungle_troll
-religion = voodoo
-
-hre = no
-trade_goods = resource_food
-
-595.1.1 = {
-    owner = A67
-    controller = A67
-    add_core = A67
-    remove_core = A70
+base_manpower = 1
+culture = country
+595.1.1 = { 
+	controller = A67
+	add_core = A67
 }
-
-
-622.1.1 = {
-    owner = F31
-    controller = F31
-    add_core = F31
-    religion = earth    
-    culture = culture_ogre
+622.1.1 = { 
+	controller = F31
+	add_core = F31
+	religion = earth
+	culture = culture_ogre
 }
-
 632.1.1 = { 
-    # Empty Province
-    owner = B92  
-    add_core = B92
-    controller = B92 
+	add_core = B92
+	controller = B92
 }
-
-

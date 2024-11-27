@@ -1,17 +1,8 @@
 is_city = yes
-
-owner = MC5
-controller = MC5
-add_core = MC5
-
 base_tax = 3
 base_production = 3
 base_manpower = 3
-
 culture = culture_maruuk_centaur
 religion = shamanism
-
-hre = no
 trade_goods = resource_common_skins
-
 center_of_trade = 1

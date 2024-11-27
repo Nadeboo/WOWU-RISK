@@ -1,24 +1,12 @@
 is_city = yes
-owner = BLM
-controller = BLM
-add_core = BLM
-
 base_tax = 2
 base_production = 4
 base_manpower = 4
-
 culture = culture_botani
 religion = sporemounds
-
-hre = no
 trade_goods = unknown
-
-
 # Outlandification
-600.1.1 = {
-    
-    owner = ---
-    controller = ---
-    remove_core = BLM
+600.1.1 = { 
+	owner = ---
+	controller = ---
 }
-

@@ -1,44 +1,26 @@
 is_city = yes
-
-owner = CRE
-controller = CRE
-add_core = CRE
-
 base_tax = 3
 base_production = 2
 base_manpower = 3
-
 culture = culture_kul_tiran
 religion = holy_light
-
-hre = no
 trade_goods = unknown
-
-latent_trade_goods = {
-	resource_azerite
+latent_trade_goods = { 
+	resource_azerite 
 }
-
 center_of_trade = 1
-
-600.1.1 = {
-    owner = ---
-    controller = ---
-    remove_core = CRE
-    
+600.1.1 = { 
+	owner = ---
+	controller = ---
 	culture = culture_ghost
 	religion = fel
 }
-
-631.1.1 = {
-
-    owner = CSB
-    controller = CSB
-    add_core = CSB
-
-    base_tax = 2
-    base_production = 1
-    base_manpower = 3
-
-    culture = culture_twilight_dragonflight
-    religion = twilight_cult
+631.1.1 = { 
+	controller = CSB
+	add_core = CSB
+	base_tax = 2
+	base_production = 1
+	base_manpower = 3
+	culture = culture_twilight_dragonflight
+	religion = twilight_cult
 }

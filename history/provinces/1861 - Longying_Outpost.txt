@@ -1,27 +1,14 @@
-
 is_city = yes
-
-owner = P48
-controller = P48
-add_core = P48
-
 base_tax = 4
 base_production = 4
 base_manpower = 3
-
 culture = culture_yaungol
 religion = ordos
-
-hre = no
 trade_goods = resource_gems
-
 center_of_trade = 1
-
-632.1.1 = {
-	owner = P37
+632.1.1 = { 
 	controller = P37
 	add_core = P37
 	culture = culture_shado_pan
 	religion = celestials
 }
-

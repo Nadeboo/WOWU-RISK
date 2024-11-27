@@ -1,25 +1,14 @@
 is_city = yes
-owner = B47
-controller = B47
-add_core = B47
-
 base_tax = 1
 base_production = 1
 base_manpower = 2
-
 culture = culture_wolvar
 religion = wolvar_idolatry
-
-hre = no
 trade_goods = resource_common_wood
-
-617.1.1 = {
-    is_city = yes
-    owner = P11
-    controller = P11
-    add_core = P11
-    
-    culture = culture_scourge
-    religion = cult_of_the_damned
+617.1.1 = { 
+	city = yes
+	controller = P11
+	add_core = P11
+	culture = culture_scourge
+	religion = cult_of_the_damned
 }
-

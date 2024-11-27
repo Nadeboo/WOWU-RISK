@@ -1,16 +1,7 @@
 is_city = yes
-
-owner = BNO
-controller = BNO
-add_core = BNO
-
 base_tax = 2
 base_production = 2
 base_manpower = 3
-
 culture = culture_gorloc
 religion = water
-
-hre = no
 trade_goods = unknown
-
